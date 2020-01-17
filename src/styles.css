@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+}
+
+.App .menu button {
+  font-size: 1em;
+}
+
+.invisible {
+  display: none;
+}
+
+.visible {
+  display: block;
+}
